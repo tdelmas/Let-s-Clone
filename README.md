@@ -40,6 +40,8 @@ Let's Encrypt can go down for you.
 
 Moving to another certificate authorities may not be possible, depending of the number of domain you have, the cost can make it imposible. The few other free of charge certificate authorities impose limitations (such as one domain per certificate, or forbid wildcard, or are free only for open source project)
 
+https://community.letsencrypt.org/t/is-lets-encrypt-going-from-savior-to-single-point-of-failure-spof/60256/2
+
 ## US jurisdiction
 
 Let's Encrypt is under US jurisdiction. If it's fine for you, imagine you **had to** use a certificate authority from China, Russia or any country you don't want to be under the jurisdiction.
@@ -48,6 +50,7 @@ It means Let's Encrypt have to answer to order from the US governmment and judic
 
 https://letsencrypt.org/repository/#isrg-legal-transparency-reports
 https://community.letsencrypt.org/t/according-to-mcclatchydc-com-lets-encrypt-revoqued-and-banned-usareally-com/81517/10
+https://community.letsencrypt.org/t/certificates-for-us-sanctioned-countries/1223/6
 
 # How
 
