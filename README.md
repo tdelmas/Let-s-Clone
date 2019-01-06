@@ -3,9 +3,34 @@ How to spread Certificate Authorities like Let's Encrypt
 
 # Why
 
-## SPOF
-## US jurisdiction
 ## Freedom of choice
+
+When you build a website, you need to choose:
+
+- A name.
+  - For that, you my choose one related to your country (country code top-level domain, such as `.uk` or `.fr`)
+  - Or a generic top-level domain (such as `.xyz`)
+  
+  Either way, there are a lot of registrar, and you have the possibility to choose a free one.
+  
+- An hosting provider.
+
+  A lot of hosting provider are avaliable. And you can self-host for free if you prefer.
+
+- A certificate authority.
+
+  There are some of them. And really few provide a really free solution.
+
+If you are, for example, in Europe, and you want to host your website in Europe, under an European tld (`.eu`, or another such as `.fr`, `.de`, `.it`...) using only European companies:
+
+  - You have the choice for your registrar
+  - You have the choice for your hosting provider
+  - The choice for your certificate authority is very limited
+
+
+## Single point of failure
+
+## US jurisdiction
 
 # How
 
