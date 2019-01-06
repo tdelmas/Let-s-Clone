@@ -1,4 +1,5 @@
-# Let's-Clone
+# Let's Clone
+
 How to spread Certificate Authorities like Let's Encrypt
 
 # Why
@@ -30,7 +31,23 @@ If you are, for example, in Europe, and you want to host your website in Europe,
 
 ## Single point of failure
 
+Let's Encrypt can go down for you.
+
+- ISRG, The corporation behind it can shut it down
+- It may be distrusted by browsers
+- It may be under cyber attack
+- It may be not reachable from your country
+
+Moving to another certificate authorities may not be possible, depending of the number of domain you have, the cost can make it imposible. The few other free of charge certificate authorities impose limitations (such as one domain per certificate, or forbid wildcard, or are free only for open source project)
+
 ## US jurisdiction
+
+Let's Encrypt is under US jurisdiction. If it's fine for you, imagine you **had to** use a certificate authority from China, Russia or any country you don't want to be under the jurisdiction.
+
+It means Let's Encrypt have to answer to order from the US governmment and judicial.
+
+https://letsencrypt.org/repository/#isrg-legal-transparency-reports
+https://community.letsencrypt.org/t/according-to-mcclatchydc-com-lets-encrypt-revoqued-and-banned-usareally-com/81517/10
 
 # How
 
