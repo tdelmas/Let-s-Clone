@@ -11,7 +11,12 @@ How to spread Certificate Authorities like Let's Encrypt
 
 ## Money
 
-2018: 3.6M USD/year
+2019 Budget: 3.6M USD
+2018 Budget: 3.0M USD
+
+2017 Expenses 2.65M USD
+ 
+2017 Budget:
 |Expense|Cost|
 |---|---|
 |Staffing|$2.06M USD|
@@ -19,6 +24,7 @@ How to spread Certificate Authorities like Let's Encrypt
 |Hosting/Auditing|$0.30M USD|
 |Legal/Administrative|$0.35M USD|
 |Total|$2.91M USD|
+
 https://letsencrypt.org/2018/12/31/looking-forward-to-2019.html
 https://letsencrypt.org/2016/09/20/what-it-costs-to-run-lets-encrypt.html
 
