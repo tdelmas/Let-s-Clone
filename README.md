@@ -48,21 +48,25 @@ Let's Encrypt is under US jurisdiction. If it's fine for you, imagine you **had 
 
 It means Let's Encrypt have to answer to order from the US governmment and judicial.
 
-https://letsencrypt.org/repository/#isrg-legal-transparency-reports
-https://community.letsencrypt.org/t/according-to-mcclatchydc-com-lets-encrypt-revoqued-and-banned-usareally-com/81517/10
-https://community.letsencrypt.org/t/certificates-for-us-sanctioned-countries/1223/6
-https://community.letsencrypt.org/t/lets-encrypt-and-u-s-laws/3251
+- https://letsencrypt.org/repository/#isrg-legal-transparency-reports
+- https://community.letsencrypt.org/t/according-to-mcclatchydc-com-lets-encrypt-revoqued-and-banned-usareally-com/81517/10
+- https://community.letsencrypt.org/t/certificates-for-us-sanctioned-countries/1223/6
+- https://community.letsencrypt.org/t/lets-encrypt-and-u-s-laws/3251
 
 # How
 
 ## Money
 
+2019 Sponsors (estimate): 2,970,000 - 5,600,000 USD (300,000*7+150,000*2+10,000*57 - 350,000*7+150,000*2+50,000*57)
+
 2019 Budget: 3.6M USD
+
 2018 Budget: 3.0M USD
 
-2017 Expenses 2.65M USD
- 
+2017 Expenses: ~2.65M USD
+
 2017 Budget:
+
 |Expense|Cost|
 |---|---|
 |Staffing|$2.06M USD|
@@ -71,8 +75,9 @@ https://community.letsencrypt.org/t/lets-encrypt-and-u-s-laws/3251
 |Legal/Administrative|$0.35M USD|
 |Total|$2.91M USD|
 
-https://letsencrypt.org/2018/12/31/looking-forward-to-2019.html
-https://letsencrypt.org/2016/09/20/what-it-costs-to-run-lets-encrypt.html
+- https://letsencrypt.org/2018/12/31/looking-forward-to-2019.html
+- https://letsencrypt.org/2017/12/07/looking-forward-to-2018.html
+- https://letsencrypt.org/2016/09/20/what-it-costs-to-run-lets-encrypt.html
 
 ## Infrastructure
 ## Code hosting
