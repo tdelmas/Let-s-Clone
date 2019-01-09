@@ -75,9 +75,19 @@ It means Let's Encrypt have to answer to order from the US governmment and judic
 |Legal/Administrative|$0.35M USD|
 |Total|$2.91M USD|
 
+2016 Revenue 2.1M USD
+
+2016 Expense 1.9M USD
+
+2015 Revenue 946k USD
+
+2015 Expense 976k USD
+
+
 - https://letsencrypt.org/2018/12/31/looking-forward-to-2019.html
 - https://letsencrypt.org/2017/12/07/looking-forward-to-2018.html
 - https://letsencrypt.org/2016/09/20/what-it-costs-to-run-lets-encrypt.html
+- 2016 IRS Form 990: https://apps.irs.gov/app/eos/displayAll.do?dispatchMethod=displayAllInfo&Id=550351&ein=463344200&country=US&deductibility=all&dispatchMethod=searchAll&isDescending=false&city=&ein1=46-3344200&postDateFrom=&exemptTypeCode=al&submitName=Search&sortColumn=orgName&totalResults=1&names=&resultsPerPage=25&indexOfFirstRow=0&postDateTo=&state=All+States
 
 ## Infrastructure
 ## Code hosting
