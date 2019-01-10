@@ -57,32 +57,47 @@ It means Let's Encrypt have to answer to order from the US governmment and judic
 
 ## Money
 
-2019 Sponsors (estimate): 2,970,000 - 5,600,000 USD (300,000*7+150,000*2+10,000*57 - 350,000*7+150,000*2+50,000*57)
+### 2019
 
-2019 Budget: 3.6M USD
+Budget: 3.6M USD
 
-2018 Budget: 3.0M USD
+### 2018
 
-2017 Expenses: ~2.65M USD
+Budget: 3.0M USD
 
-2017 Budget:
+### 2017
 
-|Expense|Cost|
+Expenses: ~2.65M USD
+
+|Category|Budget|
 |---|---|
-|Staffing|$2.06M USD|
-|Hardware/Software|$0.20M USD|
-|Hosting/Auditing|$0.30M USD|
-|Legal/Administrative|$0.35M USD|
-|Total|$2.91M USD|
+|Staffing|2.06M USD|
+|Hardware/Software|0.20M USD|
+|Hosting/Auditing|0.30M USD|
+|Legal/Administrative|0.35M USD|
+|Total|2.91M USD|
 
-2016 Revenue 2.1M USD
+### 2016
 
-2016 Expense 1.9M USD
+Expenses:
 
-2015 Revenue 946k USD
+|Category|Expense|
+|---|---|
+|Management|1.4M USD|
+|Legal|19k USD|
+|Accounting|2k USD|
+|Advertising|16k USD|
+|Office|215k USD|
+|IT|16k USD|
+|Travel|25k USD|
+|Other|19k USD|
+|Total|1.9M USD|
 
-2015 Expense 976k USD
+Equipment donation recieved: 126k
 
+### 2015
+
+Expenses: 976k USD
 
 - https://letsencrypt.org/2018/12/31/looking-forward-to-2019.html
 - https://letsencrypt.org/2017/12/07/looking-forward-to-2018.html
