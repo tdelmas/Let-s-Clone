@@ -42,6 +42,8 @@ Equipment donation recieved: 126k
 
 Expenses: 976k USD
 
+# Sources
+
 - https://letsencrypt.org/2018/12/31/looking-forward-to-2019.html
 - https://letsencrypt.org/2017/12/07/looking-forward-to-2018.html
 - https://letsencrypt.org/2016/09/20/what-it-costs-to-run-lets-encrypt.html
