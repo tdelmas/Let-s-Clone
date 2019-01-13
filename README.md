@@ -57,7 +57,7 @@ It means Let's Encrypt have to answer to order from the US governmment and judic
 
 ## Finances
 
-(Example of Let's Encrypt)[/FINANCES.md]
+[Example of Let's Encrypt](/FINANCES.md)
 
 |Category|Budget|
 |---|---|
