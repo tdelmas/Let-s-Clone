@@ -30,5 +30,13 @@ How to spread Certificate Authorities like Let's Encrypt
 ## Legal
 ## Audits
 ## CA stores
+
+### Windows
+### Android
+### Apple
+### Firefox
+### Debian
+### Others
+
 ## CABForum
 ## Bootstrap cross sign
