@@ -4,7 +4,7 @@ Example of Let's Encrypt:
 
 Budget: 3.6M USD
 
-### 2018
+# 2018
 
 Budget: 3.0M USD
 
