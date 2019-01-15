@@ -1,3 +1,5 @@
+It's a work in progress, Pull requests and Issues are welcomed.
+
 # Let's Clone
 
 How to spread Certificate Authorities like Let's Encrypt
