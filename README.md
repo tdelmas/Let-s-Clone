@@ -6,6 +6,17 @@ How to spread Certificate Authorities like Let's Encrypt
 
 [Why do we need more open certificates autorities](/WHY.md)
 
+# Differences
+
+Alternatives to Let's Encrypt could offert a different service:
+
+- Be under another jurisdiction
+- Could impose OCSP Must stapple to improve privacy and reduce costs
+- Could provide a fallback
+- Could be open only for some tlds
+
+
+
 # How
 
 ## Finances
