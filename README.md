@@ -11,7 +11,7 @@ How to spread Certificate Authorities like Let's Encrypt
 Alternatives to Let's Encrypt could offert a different service:
 
 - Be under another jurisdiction
-- Could impose OCSP Must stapple to improve privacy and reduce costs
+- Could impose OCSP Must stapple to improve privacy and reduce costs (~152 FQDN represent 5.5B OCSP requests [source](https://letsencrypt.org/2018/12/31/looking-forward-to-2019.html))
 - Could provide a fallback
 - Could be open only for some tlds
 
