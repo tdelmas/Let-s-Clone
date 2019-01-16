@@ -45,10 +45,28 @@ Alternatives to Let's Encrypt could offert a different service:
 ## CA stores
 
 ### Windows
+
+https://social.technet.microsoft.com/wiki/contents/articles/31633.microsoft-trusted-root-program-requirements.aspx
+
 ### Android
 ### Apple
+
+https://www.apple.com/certificateauthority/ca_program.html
+
 ### Firefox
-### Debian
+
+https://bugzilla.mozilla.org/show_bug.cgi?id=1204656
+
+### Debian / Ubuntu
+
+https://tracker.debian.org/pkg/ca-certificates
+
+https://launchpad.net/ubuntu/+source/ca-certificates
+
+### Java (Oracle's Java SE Root CA Program)
+
+https://bugs.java.com/bugdatabase/view_bug.do?bug_id=JDK-8191486
+
 ### Others
 
 ## CABForum
