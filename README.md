@@ -60,9 +60,9 @@ https://www.chromium.org/Home/chromium-security/root-ca-policy
 
 https://www.apple.com/certificateauthority/ca_program.html
 
-### Firefox
+### Firefox / Mozilla
 
-https://bugzilla.mozilla.org/show_bug.cgi?id=1204656
+https://www.mozilla.org/en-US/about/governance/policies/security-group/certs/policy/
 
 ### Debian / Ubuntu
 
