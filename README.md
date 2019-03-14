@@ -17,6 +17,7 @@ Alternatives to Let's Encrypt could offert a different service:
 - Could provide a fallback
 - Could be open only for some tlds
 - Could have no custom rates limits
+- Could require the CAA DNS entry
 - Support: could have a support in the local languages, and/or a paid one.
 - Restrict possible challenges (ex. only DNS with DNSSEC)
 
