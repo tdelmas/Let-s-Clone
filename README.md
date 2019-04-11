@@ -30,7 +30,7 @@ Alternatives to Let's Encrypt could offert a different service:
 
 [Example of Let's Encrypt](/FINANCES.md)
 
-|Category|Budget|
+|Category|Budget (per year)|
 |---|---|
 |Staffing|2M USD|
 |Hardware|0.2M USD|
