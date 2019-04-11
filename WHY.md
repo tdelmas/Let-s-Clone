@@ -46,3 +46,10 @@ It means Let's Encrypt have to answer to order from the US governmment and judic
 - https://community.letsencrypt.org/t/according-to-mcclatchydc-com-lets-encrypt-revoqued-and-banned-usareally-com/81517/10
 - https://community.letsencrypt.org/t/certificates-for-us-sanctioned-countries/1223/6
 - https://community.letsencrypt.org/t/lets-encrypt-and-u-s-laws/3251
+
+If you are on the "Specially Designated Nationals And Blocked Persons List (SDN)" from the "
+Seal of the U.S. Department of the Treasury, 1789U.S. Department of the Treasury" (https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx) Let's Encrypt will refuse to issue a certificate and revoque the ones already issued:
+
+- https://community.letsencrypt.org/t/issuance-criteria-for-ir-domains/81812/2
+- https://community.letsencrypt.org/t/dnr-online-ru-certificate-was-revoked/48809/5
+- https://community.letsencrypt.org/t/according-to-mcclatchydc-com-lets-encrypt-revoqued-and-banned-usareally-com/81517
