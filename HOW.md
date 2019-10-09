@@ -8,7 +8,7 @@
 # Audits
 # Bootstrap cross sign
 
-choen - Certbot engineer / EFF:
+schoen - Certbot engineer / EFF:
 
 > I’m sure Let’s Encrypt staff would be happy to talk to anyone who wants to set up a new ACME-based CA on the Let’s Encrypt model.
 
